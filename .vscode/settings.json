@@ -1,0 +1,27 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 100,
+      "server": "localhost",
+      "port": 6000,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "database": "test",
+      "username": "postgres",
+      "name": "postgres"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "ngrid",
+      "username": "root",
+      "database": "mysql"
+    }
+  ]
+}
