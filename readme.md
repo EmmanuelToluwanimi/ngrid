@@ -8,7 +8,7 @@ This is a **Node.js** backend application using **Express.js**, **Knex.js (MySQL
 - **POST /employees** - Add a new employee with validation and transactional database insertion.
 
 ## 🛠 Technologies
-- Node.js
+- Node.js - v18.0.0
 - Express.js
 - Knex.js (MySQL)
 - Redis
